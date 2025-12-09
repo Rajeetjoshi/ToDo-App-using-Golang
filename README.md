@@ -72,5 +72,5 @@ project/
 💡 Author
 
 Your Name
-GitHub: https://github.com/Rajeetjoshii
+GitHub: https://github.com/Rajeetjoshi
 
